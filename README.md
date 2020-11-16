@@ -1,5 +1,5 @@
 Grupo | Arquivos
 --- | ---
-Features | abrir_solicitacao_credenciamento.feature;  credenciamento_periodo.feature; gerenciar_solicitacoes_credenciamento.feature ; requisitos_necessarios.feature
-Models | Arquivos
-Controllers | Arquivos
+Features | abrir_solicitacao_credenciamento.feature <br />  credenciamento_periodo.feature; <br /> gerenciar_solicitacoes_credenciamento.feature; requisitos_necessarios.feature; credenciamento_professores_steps.rb; application_record.rb; requirement.rb; sei_process.rb; user.rb
+Models | accreditation.rb; <br /> application_record.rb; <br />requirement.rb; <br />sei_process.rb <br />user.rb
+Controllers | <br />accreditations_controller.rb; <br />application_controller.rb;<br /> home_controller.rb; <br />requirements_controller.rb;<br /> sei_processes_controller.rb
