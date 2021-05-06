@@ -25,3 +25,5 @@ Ao ser requerido o arquivo de entrada, basta inserir o nome (sem aspas) do arqui
 # Estrutura do arquivo .asm de entrada
 
 O arquivo de entrada pode ser qualquer algoritmo desenvolvido em Assembly MIPS. Para o funcionamento correto do programa, é necessária a divisão entre os campos de Dados (.data) e Texto (.text), como segue no arquivo "examples/ex1.asm". A ordem entre esses dois campos não importa, mas as diretivas (.data/.text) devem estar explícitas no arquivo. Não foi realizado tratamento de erros (fora de escopo).
+
+Mais informações a respeito da motivação/funcionalidade do programa (como análises de desempenho e discussões) podem ser obtidas no arquivo "mipsToMIF.PDF".
